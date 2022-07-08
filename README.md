@@ -1,4 +1,4 @@
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Profile Banner">
+<img align="center" src="https://www.lambdatest.com/resources/images/news24.gif" alt="Profile Banner">
 
 <h1 align="center">Hi 👋, I'm Diego Segovia</h1>
 <h3 align="center">Aspiring Web Developer</h3>
