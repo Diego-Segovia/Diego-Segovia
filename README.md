@@ -32,4 +32,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=diego-segovia&show_icons=true&locale=en&bg_color=75,45caff,ff1b6b" alt="diego-segovia" width="450"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia" alt="diego-segovia" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia&theme=dark&fire=FF2D2D&ring=DDDDDD&currStreakLabel=FF0000" alt="diego-segovia" />
