@@ -1,4 +1,3 @@
-<p align="center"><img src="https://www.lambdatest.com/resources/images/news24.gif" alt="Profile Banner"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/dinanrm/dinanrm/master/waving-hand.gif" width="3%">, I'm Diego Segovia</h1>
 <h3 align="center">Aspiring Web Developer</h3>
