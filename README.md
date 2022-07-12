@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with web development.
 
-- 👨‍💻 All of my projects are available at [here].(a)
+- 👨‍💻 All of my projects are available at [here](a).
 
 - 📫 How to reach me: diegosegovia@protonmail.com.
 
