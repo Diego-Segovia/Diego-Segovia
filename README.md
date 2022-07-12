@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a Basketball Statistics Analyzer.
 
-- 🌱 I’m currently learning React, Node.js, Express.js.
+- 🌱 I’m currently learning React, Node.js, and Express.js.
 
 - 👯 I’m looking to collaborate on web development projects.
 
