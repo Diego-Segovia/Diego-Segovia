@@ -4,21 +4,17 @@
 <br>
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="420">
 
-- 🔭 I’m currently working on **a**
+- 🔭 I’m currently working on a Basketball Statistics Analyzer.
 
-- 🌱 I’m currently learning **a**
+- 🌱 I’m currently learning React, Node.js, Express.js.
 
-- 👯 I’m looking to collaborate on **a**
+- 👯 I’m looking to collaborate on web development projects.
 
-- 🤝 I’m looking for help with **a**
+- 🤝 I’m looking for help with web development.
 
 - 👨‍💻 All of my projects are available at [a](a)
 
-- 📝 I regularly write articles on [a](a)
-
-- 💬 Ask me about **a**
-
-- 📫 How to reach me **a**
+- 📫 How to reach me: diegosegovia@protonmail.com.
 
 <br>
 
