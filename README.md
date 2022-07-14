@@ -27,4 +27,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-segovia&show_icons=true&locale=en&layout=compact&bg_color=85,45caff,ff1b6b" alt="diego-segovia" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=diego-segovia&show_icons=true&locale=en&bg_color=75,45caff,ff1b6b" alt="diego-segovia" width="420"/></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia&theme=dark&fire=FF2D2D&ring=DDDDDD&currStreakLabel=FF0000" alt="diego-segovia" /></p>  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia&theme=dark&fire=FF2D2D&ring=DDDDDD&currStreakLabel=FF0000" alt="diego-segovia" /></p>
