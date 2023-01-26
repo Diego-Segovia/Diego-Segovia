@@ -19,6 +19,6 @@
 </p>
 
 <h2 align="center"><img src="https://media1.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47r2921s3tijvgzdvc78gs9nmdcy60ogx26ixu878l&rid=giphy.gif&ct=s" width="120"> Github Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-segovia&show_icons=true&locale=en&layout=compact&bg_color=85,45caff,ff1b6b" alt="diego-segovia" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=diego-segovia&show_icons=true&locale=en&bg_color=75,45caff,ff1b6b" alt="diego-segovia" width="420"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-segovia&show_icons=true&locale=en&layout=compact&theme=dark" alt="diego-segovia" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=diego-segovia&show_icons=true&locale=en&theme=dark" width="395" alt="diego-segovia"/></p>
 
 <div align="center"><img src="https://media1.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif?cid=ecf05e47c3dj15epnln6uvoauel6r76pif79swqdzs9ku642&rid=giphy.gif&ct=ts" width="160px" alt="diego-segovia" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia&theme=dark&fire=FF2D2D&ring=DDDDDD&currStreakLabel=FF0000" alt="diego-segovia" /><img src="https://media1.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif?cid=ecf05e47c3dj15epnln6uvoauel6r76pif79swqdzs9ku642&rid=giphy.gif&ct=ts" width="160px" alt="diego-segovia" /></div>
