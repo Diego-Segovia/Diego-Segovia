@@ -2,7 +2,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Diego Segovia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-segovia-ayala">
   <img src="https://img.shields.io/github/followers/Diego-Segovia?label=follow&style=social">
-  <img src="https://img.shields.io/badge/Repositories-12-green"></p>
+  <img src="https://img.shields.io/badge/Repositories-12-green">
+  <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+</p>
 <h2 align="center">Technology Stack <img src="https://media4.giphy.com/media/90EOT1pnHrxr1GAoSR/giphy.gif?cid=ecf05e47onmbigzxaz436jti2ntzzg83n91218rvw89qaog3&rid=giphy.gif&ct=s" width="120"></h2>
 
 <p align="center">
