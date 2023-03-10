@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Diego Segovia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-segovia-ayala">
   <img src="https://img.shields.io/github/followers/Diego-Segovia?label=follow&style=social">
-  <img src="https://img.shields.io/badge/Repositories-12-green">
+  <img src="https://img.shields.io/badge/Repositories-13-green">
   <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 </p>
