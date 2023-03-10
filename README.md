@@ -1,6 +1,8 @@
 <img src="banner.png">
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-segovia-ayala" target="_blank"><img src="https://img.shields.io/badge/-Diego Segovia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-segovia-ayala"></a>
+  <a href="#" onclick='window.open("https://www.linkedin.com/in/diego-segovia-ayala");return false;'>
+    <img src="https://img.shields.io/badge/-Diego Segovia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-segovia-ayala">
+  </a>
   <img src="https://img.shields.io/github/followers/Diego-Segovia?label=follow&style=social">
   <img src="https://img.shields.io/badge/Repositories-13-green">
   <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
