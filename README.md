@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h2 align="center">Technology Stack <img src="https://media4.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif?cid=ecf05e47rl7wbtyulonwe4p742j3suxxbhaxkmwcz8tape8g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"></h2>
+<h2 align="center">Tech Stack 👨🏻‍💻 <img src="https://media4.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif?cid=ecf05e47rl7wbtyulonwe4p742j3suxxbhaxkmwcz8tape8g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
