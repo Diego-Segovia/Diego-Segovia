@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
 <h2 align="center">
   <img src="https://media1.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47r2921s3tijvgzdvc78gs9nmdcy60ogx26ixu878l&rid=giphy.gif&ct=s" width="120"> Github Stats
 </h2>
