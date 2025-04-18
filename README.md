@@ -31,9 +31,3 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
-<h2 align="center">
-  <img src="https://media1.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif?cid=ecf05e47r2921s3tijvgzdvc78gs9nmdcy60ogx26ixu878l&rid=giphy.gif&ct=s" width="120"> Github Stats
-</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=diego-segovia&show_icons=true&locale=en&layout=compact&bg_color=75,002B5B,1A5F7A,159895,57C5B6&title_color=F4EEE0&text_color=F4EEE0" alt="diego-segovia" />&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=diego-segovia&show_icons=true&locale=en&bg_color=75,002B5B,1A5F7A,159895,57C5B6&title_color=F4EEE0&text_color=F4EEE0" width="395" alt="diego-segovia"/></p>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-segovia&theme=highcontrast&fire=FF2D2D&ring=FFD93D&currStreakLabel=F1F6F9" alt="diego-segovia" /></div>
