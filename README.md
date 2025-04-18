@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Repositories-14-green">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-   <a href="https://diego-segovia.github.io/resume/segovia_diego_resume.pdf" target="_blank">
+   <a href="https://diego-segovia.github.io/resume/Diego_Segovia_Resume.pdf" target="_blank">
      <img src="https://img.shields.io/badge/-Resume-informational?style=flat&logo=BookStack&logoColor=white&link=https://diego-segovia.github.io/resume/Diego_Segovia_Resume.pdf">
   </a>
 </p>
