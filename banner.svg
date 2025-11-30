@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" style="background-color: #000000;">
+  <defs>
+    <style>
+      /* The Warp Animation 
+         - Starts exactly at center (400, 200)
+         - Scales UP significantly (to 5x) to simulate moving closer to camera
+         - Moves to a destination coordinate (--tx, --ty)
+      */
+      @keyframes hyper-warp {
+        0% {
+          transform: translate(400px, 200px) scale(0);
+          opacity: 0;
+        }
+        10% {
+          opacity: 1;
+        }
+        100% {
+          transform: translate(var(--tx), var(--ty)) scale(5);
+          opacity: 0;
+        }
+      }
+
+      .particle {
+        fill: #39ff14; /* Gecko Green */
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 10px; /* Base size */
+        animation: hyper-warp var(--dur) ease-in infinite; /* ease-in makes them start slow and shoot out */
+        animation-delay: var(--del);
+        transform-box: fill-box;
+        transform-origin: center;
+        opacity: 0; 
+      }
+
+      /* Pulse animation for the main text */
+      @keyframes text-pulse {
+        0%, 100% { filter: drop-shadow(0 0 5px #39ff14); }
+        50% { filter: drop-shadow(0 0 15px #39ff14); }
+      }
+
+      .main-text {
+        fill: #39ff14;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 600;
+        font-size: 30px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        animation: text-pulse 2s infinite;
+      }
+    </style>
+  </defs>
+
+  <g id="warp-field">
+    <text class="particle" style="--tx: 0px; --ty: 0px; --dur: 0.6s; --del: 0.1s;">1</text>
+    <text class="particle" style="--tx: 800px; --ty: 0px; --dur: 0.7s; --del: 0.2s;">0</text>
+    <text class="particle" style="--tx: 0px; --ty: 400px; --dur: 0.65s; --del: 0.3s;">1</text>
+    <text class="particle" style="--tx: 800px; --ty: 400px; --dur: 0.55s; --del: 0.4s;">0</text>
+    <text class="particle" style="--tx: 400px; --ty: -100px; --dur: 0.8s; --del: 0.0s;">1</text>
+    <text class="particle" style="--tx: 400px; --ty: 500px; --dur: 0.75s; --del: 0.5s;">0</text>
+
+    <text class="particle" style="--tx: -100px; --ty: 100px; --dur: 1.0s; --del: 0.1s;">0</text>
+    <text class="particle" style="--tx: 900px; --ty: 100px; --dur: 1.1s; --del: 0.6s;">1</text>
+    <text class="particle" style="--tx: -100px; --ty: 300px; --dur: 0.9s; --del: 0.3s;">0</text>
+    <text class="particle" style="--tx: 900px; --ty: 300px; --dur: 1.2s; --del: 0.8s;">1</text>
+    <text class="particle" style="--tx: 200px; --ty: -100px; --dur: 1.0s; --del: 0.2s;">1</text>
+    <text class="particle" style="--tx: 600px; --ty: -100px; --dur: 1.1s; --del: 0.7s;">0</text>
+    <text class="particle" style="--tx: 200px; --ty: 500px; --dur: 0.95s; --del: 0.4s;">1</text>
+    <text class="particle" style="--tx: 600px; --ty: 500px; --dur: 1.05s; --del: 0.9s;">0</text>
+
+    <text class="particle" style="--tx: -200px; --ty: -200px; --dur: 1.4s; --del: 0.0s;">1</text>
+    <text class="particle" style="--tx: 1000px; --ty: -200px; --dur: 1.5s; --del: 0.5s;">0</text>
+    <text class="particle" style="--tx: -200px; --ty: 600px; --dur: 1.3s; --del: 0.2s;">1</text>
+    <text class="particle" style="--tx: 1000px; --ty: 600px; --dur: 1.45s; --del: 0.7s;">0</text>
+    
+    <text class="particle" style="--tx: 100px; --ty: -50px; --dur: 1.2s; --del: 0.15s;">0</text>
+    <text class="particle" style="--tx: 700px; --ty: 450px; --dur: 1.3s; --del: 0.65s;">1</text>
+    <text class="particle" style="--tx: 50px; --ty: 200px; --dur: 0.9s; --del: 0.25s;">0</text>
+    <text class="particle" style="--tx: 750px; --ty: 200px; --dur: 1.0s; --del: 0.75s;">1</text>
+    <text class="particle" style="--tx: 300px; --ty: -100px; --dur: 1.1s; --del: 0.35s;">0</text>
+    <text class="particle" style="--tx: 500px; --ty: 500px; --dur: 1.2s; --del: 0.85s;">1</text>
+    
+    <text class="particle" style="--tx: 0px; --ty: 100px; --dur: 0.8s; --del: 1.0s;">1</text>
+    <text class="particle" style="--tx: 800px; --ty: 300px; --dur: 0.9s; --del: 1.2s;">0</text>
+    <text class="particle" style="--tx: 100px; --ty: 400px; --dur: 0.7s; --del: 1.5s;">1</text>
+    <text class="particle" style="--tx: 700px; --ty: 0px; --dur: 0.85s; --del: 1.1s;">0</text>
+  </g>
+
+  <text x="400" y="200" class="main-text">Diego Segovia</text>
+</svg>
