@@ -8,12 +8,9 @@
     <img src="https://img.shields.io/badge/Repositories-14-green">
   </a>
   <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-   <a href="https://diego-segovia.github.io/resume/Diego_Segovia_Resume.pdf" target="_blank">
-     <img src="https://img.shields.io/badge/-Resume-informational?style=flat&logo=BookStack&logoColor=white&link=https://diego-segovia.github.io/resume/Diego_Segovia_Resume.pdf">
-  </a>
 </p>
 
-<h2 align="center">Tech Stack 👨🏻‍💻 <img src="https://media4.giphy.com/media/kVo6B4M27wSttWqqdM/giphy.gif?cid=ecf05e47rl7wbtyulonwe4p742j3suxxbhaxkmwcz8tape8g&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"></h2>
+<h2 align="center">Tech Stack 👨🏻‍💻 </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
