@@ -42,7 +42,7 @@
         fill: #39ff14;
         font-family: 'Courier New', Courier, monospace;
         font-weight: 600;
-        font-size: 70px;
+        font-size: 45px;
         text-anchor: middle;
         dominant-baseline: middle;
         animation: text-pulse 2s infinite;
@@ -88,6 +88,7 @@
   <text x="400" y="200" class="main-text">Diego Segovia</text>
 
 </svg>
+
 
 
 
