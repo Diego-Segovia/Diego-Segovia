@@ -1,11 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" style="background-color: #000000;">
   <defs>
     <style>
-      /* The Warp Animation 
-         - Starts exactly at center (400, 200)
-         - Scales UP significantly (to 5x) to simulate moving closer to camera
-         - Moves to a destination coordinate (--tx, --ty)
-      */
       @keyframes hyper-warp {
         0% {
           transform: translate(400px, 200px) scale(0);
@@ -86,4 +81,5 @@
   </g>
 
   <text x="400" y="200" class="main-text">Diego Segovia</text>
+
 </svg>
