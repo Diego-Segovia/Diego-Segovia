@@ -10,5 +10,5 @@
   <img src="https://komarev.com/ghpvc/?username=Diego-Segovia&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h2 align="center">Tech Stack 👨🏻‍💻 </h2>
+<h2 align="center">Technologies</h2>
 <img src="skill_tiles.svg">
